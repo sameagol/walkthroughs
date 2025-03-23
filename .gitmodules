@@ -1,0 +1,3 @@
+[submodule "elastic-start-local"]
+	path = elastic-start-local
+	url = /home/sameagol/projects/elastic/elastic-start-local
